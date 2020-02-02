@@ -59,3 +59,4 @@
 
 ## 7. 추가 자료
 * [Affine 계층에서의 역전파 증명](http://cs231n.stanford.edu/handouts/linear-backprop.pdf)
+* [But What is a Deep Learning?](https://www.youtube.com/watch?v=aircAruvnKk)
