@@ -19,8 +19,8 @@
 |1주차|퍼셉트론과 다중 퍼셉트론|2장, 3장|Lab-01-01 ~ Lab-09-01|─|
 |2주차|신경망 학습과 오차역전파법|4장, 5장|─|─|
 |3주차|모델의 성능 향상|6장|Lab-09-2 ~ Lab-09-4|[패션 분류기 만들기](https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24380)|
-|4주차|합성곱 신경망|7, 8장|Lab-10-0 ~ Lab-10-7|─|
-|5주차|유명한 CNN 관련 논문 뜯어보기|─|─|[개-고양이 분류기 만들기](https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24381)|
+|4주차|합성곱 신경망|7장|Lab-10-0 ~ Lab-10-7|─|
+|5주차|유명한 CNN 관련 논문 뜯어보기|8장|─|[개-고양이 분류기 만들기](https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24381)|
 |6주차|순환 신경망|─|Lab-11-0 ~ Lab-11-6|[기온 예측 모델 만들기](https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24382)|
 
 
@@ -55,7 +55,8 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2020.01.28|중앙도서관 팀플실2|`영무`|퍼셉트론과 다중 퍼셉트론|`은우`([2장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week1/Chapter%2002.%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%20(%EC%9D%80%EC%9A%B0).pdf)), `혜지`([3장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week1/Chapter%2003.%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20(%ED%98%9C%EC%A7%80).pdf))|─|
 |2020.01.28|중앙도서관 팀플실2|`영무`|신경망 학습과 오차역전파법|`영현`([4장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week2/Chapter%2004.%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5%20(%EC%98%81%ED%98%84).pdf)), `재현`([5장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week2/Chapter%2005.%20%EC%98%A4%EC%B0%A8%EC%97%AD%EC%A0%84%ED%8C%8C%EB%B2%95%20(%EC%9E%AC%ED%98%84).html))|─|
-|2020.02.04|미정|미정|여러 학습관련 기술들|`소현`([6.1, 6.2장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week3/Chapter%2006.%20%ED%95%99%EC%8A%B5%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EC%88%A0%20Part1%20(%EC%86%8C%ED%98%84).pdf)), `영무`([6.3 - 6.5장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week3/Chapter%2006.%20%ED%95%99%EC%8A%B5%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EC%88%A0%20Part2%20(%EC%98%81%EB%AC%B4).pdf))|미정|
+|2020.02.04|중앙도서관 스터디룸4|─|여러 학습관련 기술들|`소현`([6.1, 6.2장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week3/Chapter%2006.%20%ED%95%99%EC%8A%B5%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EC%88%A0%20Part1%20(%EC%86%8C%ED%98%84).pdf)), `영무`([6.3 - 6.5장](https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week3/Chapter%2006.%20%ED%95%99%EC%8A%B5%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EC%88%A0%20Part2%20(%EC%98%81%EB%AC%B4).pdf))|─|
+|2020.02.11|미정|미정|합성곱 신경망|`소현`(7.1, 7.2, 7.3장), `영현`(7.4, 7.5, 7.6, 7.7장)|`혜지`|
 
 ## 7. 추가 자료
 * [Affine 계층에서의 역전파 증명](http://cs231n.stanford.edu/handouts/linear-backprop.pdf)
