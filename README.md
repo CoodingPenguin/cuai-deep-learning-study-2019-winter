@@ -32,7 +32,7 @@
     <tbody>
         <tr>
             <td align="center">1주차</td>
-            <td align="center" rowspan="5">밑바닥 부터 시작하는 딥러닝</td>
+            <td align="center" rowspan="5">밑바닥부터<br>시작하는<br>딥러닝</td>
             <td align="center">2장, 3장</td>
             <td align="center">퍼셉트론과 다중 퍼셉트론</td>
             <td align="center">─</td>
