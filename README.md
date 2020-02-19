@@ -156,7 +156,7 @@
         </tr>
         <tr>
             <td align="center">2020.02.18</td>
-            <td align="center">창의문화스터디룸12</td>
+            <td align="center">창의문화<br>스터디룸12</td>
             <td align="center"><b>영무</b></td>
             <td align="center">유명한 CNN 알고리즘</td>
             <td align="center">재현(8장)<br>은우(Resnet)</td>
