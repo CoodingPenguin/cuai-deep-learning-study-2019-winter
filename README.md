@@ -31,54 +31,54 @@
     </thread>
     <tbody>
         <tr>
-            <td><center>1주차</center></td>
-            <td rowspan="5">밑바닥 부터 시작하는 딥러닝</center></td>
-            <td><center>2장, 3장</center></td>
-            <td><center>퍼셉트론과 다중 퍼셉트론</center></td>
-            <td><center>─</center></td>
+            <td align="center">1주차</td>
+            <td align="center" rowspan="5">밑바닥 부터 시작하는 딥러닝</td>
+            <td align="center">2장, 3장</td>
+            <td align="center">퍼셉트론과 다중 퍼셉트론</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2주차</center></td>
-            <td><center>4장, 5장</center></td>
-            <td><center>신경망 학습과 오차역전파법</center></td>
-            <td><center>─</center></td>
+            <td align="center">2주차</td>
+            <td align="center">4장, 5장</td>
+            <td align="center">신경망 학습과 오차역전파법</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>3주차</center></td>
-            <td><center>6장</center></td>
-            <td><center>모델의 성능 향상</center></td>
-            <td><center>─</center></td>
+            <td align="center">3주차</td>
+            <td align="center">6장</td>
+            <td align="center">모델의 성능 향상</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>4주차</center></td>
-            <td><center>7장</center></td>
-            <td><center>합성곱 신경망</center></td>
-            <td><center>─</center></td>
+            <td align="center">4주차</td>
+            <td align="center">7장</td>
+            <td align="center">합성곱 신경망</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>5주차</center></td>
-            <td><center>8장</center></td>
-            <td><center>유명한 CNN 관련 논문 뜯어보기</center></td>
-            <td><center>─</center></td>
+            <td align="center">5주차</td>
+            <td align="center">8장</td>
+            <td align="center">유명한 CNN 관련 논문 뜯어보기</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>6주차</center></td>
-            <td rowspan="3">부스트코스 파이토치</center></td>
-            <td><center>Part1, Part2</center></td>
-            <td><center>머신러닝 기초와 딥러닝</center></td>
-            <td><center><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24380">패션 분류기 만들기</a></center></td>
+            <td align="center">6주차</td>
+            <td align="center" rowspan="3">부스트코스 파이토치</td>
+            <td align="center">Part1, Part2</td>
+            <td align="center">머신러닝 기초와 딥러닝</td>
+            <td align="center"><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24380">패션 분류기 만들기</a></td>
         </tr>
         <tr>
-            <td><center>7주차</center></td>
-            <td><center>Part3</center></td>
-            <td><center>합성곱 신경망</center></td>
-            <td><center><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24381">개-고양이 분류기 만들기</a></center></td>
+            <td align="center">7주차</td>
+            <td align="center">Part3</td>
+            <td align="center">합성곱 신경망</td>
+            <td align="center"><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24381">개-고양이 분류기 만들기</a></td>
         </tr>
         <tr>
-            <td><center>8주차</center></td>
-            <td><center>Part4</center></td>
-            <td><center>순환 신경망</center></td>
-            <td><center><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24382">기온 예측 모델 만들기</a></center></td>
+            <td align="center">8주차</td>
+            <td align="center">Part4</td>
+            <td align="center">순환 신경망</td>
+            <td align="center"><a href="https://www.edwith.org/boostcourse-dl-pytorch/joinLectures/24382">기온 예측 모델 만들기</a></td>
         </tr>
     </tbody>
 </table>
@@ -114,61 +114,61 @@
     <thread>
         <tr>
             <th width="10%">날짜</th>
-            <th width="12%">장소</th>
+            <th width="15%">장소</th>
             <th width="17%">불참자</th>
-            <th width="33%">내용</th>
+            <th width="30%">내용</th>
             <th width="18%">발표자</th>
             <th width="10%">세미나</th>
         </tr>
     </thread>
     <tbody>
         <tr>
-            <td><center>2020.01.28</center></td>
-            <td><center>팀플실2</center></td>
-            <td><center><b>영무</b></center></td>
-            <td><center>퍼셉트론과 다중 퍼셉트론</center></td>
-            <td><center>은우(2장)<br>혜지(3장)</center></td>
-            <td><center>─</center></td>
+            <td align="center">2020.01.28</td>
+            <td align="center">팀플실2</td>
+            <td align="center"><b>영무</b></td>
+            <td align="center">퍼셉트론과 다중 퍼셉트론</td>
+            <td align="center">은우(2장)<br>혜지(3장)</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2020.01.28</center></td>
-            <td><center>팀플실2</center></td>
-            <td><center><b>영무</b></center></td>
-            <td><center>신경망 학습과 오차역전파법</center></td>
-            <td><center>영현(4장)<br>재현(5장)</center></td>
-            <td><center>─</center></td>
+            <td align="center">2020.01.28</td>
+            <td align="center">팀플실2</td>
+            <td align="center"><b>영무</b></td>
+            <td align="center">신경망 학습과 오차역전파법</td>
+            <td align="center">영현(4장)<br>재현(5장)</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2020.02.04</center></td>
-            <td><center>스터디룸4</center></td>
-            <td><center>─</center></td>
-            <td><center>여러 학습관련 기술들</center></td>
-            <td><center>소현(6.1, 6.2장)<br>영무(6.3-6.5장)</center></td>
-            <td><center>─</center></td>
+            <td align="center">2020.02.04</td>
+            <td align="center">스터디룸4</td>
+            <td align="center">─</td>
+            <td align="center">여러 학습관련 기술들</td>
+            <td align="center">소현(6.1, 6.2장)<br>영무(6.3-6.5장)</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2020.02.11</center></td>
-            <td><center>스터디룸1</center></td>
-            <td><center><b>영무, 재현, 혜지</b></center></td>
-            <td><center>합성곱 신경망</center></td>
-            <td><center>소현(7.1-7.3장)<br>영현(7.4-7.7장)</center></td>
-            <td><center>─</center></td>
+            <td align="center">2020.02.11</td>
+            <td align="center">스터디룸1</td>
+            <td align="center"><b>영무, 재현, 혜지</b></td>
+            <td align="center">합성곱 신경망</td>
+            <td align="center">소현(7.1-7.3장)<br>영현(7.4-7.7장)</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2020.02.18</center></td>
-            <td><center>스터디룸1</center></td>
-            <td><center><b>영무</b></center></td>
-            <td><center>유명한 CNN 알고리즘</center></td>
-            <td><center>재현(8장)<br>은우(Resnet)</center></td>
-            <td><center>─</center></td>
+            <td align="center">2020.02.18</td>
+            <td align="center">스터디룸1</td>
+            <td align="center"><b>영무</b></td>
+            <td align="center">유명한 CNN 알고리즘</td>
+            <td align="center">재현(8장)<br>은우(Resnet)</td>
+            <td align="center">─</td>
         </tr>
         <tr>
-            <td><center>2020.02.25</center></td>
-            <td><center>미정</center></td>
-            <td><center>미정</center></td>
-            <td><center>파이토치 ML, DNN</center></td>
-            <td><center>소현(ML)<br>영현(DNN)</center></td>
-            <td><center>혜지<br>은우</center></td>
+            <td align="center">2020.02.25</td>
+            <td align="center">미정</td>
+            <td align="center">미정</td>
+            <td align="center">파이토치 ML, DNN</td>
+            <td align="center">소현(ML)<br>영현(DNN)</td>
+            <td align="center">혜지<br>은우</td>
         </tr>
     </tbody>
 </table>
