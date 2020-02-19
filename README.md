@@ -16,8 +16,8 @@
 
 개강 2주 연기로 주교재인 밑바닥부터 시작하는 딥러닝을 마무리 한 후 남은 3주동안 부스트코스 파이토치를 하면서 파이토치를 익힐 예정입니다.
 
-- **주교재** : [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929?Acode=101)
-- **부교재** : [부스트코스 파이토치](https://www.edwith.org/boostcourse-dl-pytorch) Pytorch 코드 및 프로젝트 (자율 학습용)
+- [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929?Acode=101)
+- [부스트코스 파이토치](https://www.edwith.org/boostcourse-dl-pytorch) Pytorch 코드 및 프로젝트
 
 <table style="text-align:center;">
     <thread>
