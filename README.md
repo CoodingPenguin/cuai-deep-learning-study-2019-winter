@@ -110,6 +110,8 @@
 
 ## 6. 스터디 기록
 
+**코로나19**로 인해 스터디가 일주일 미뤄졌습니다. 일주일 후에 상황을 보고 좋지 않을 시 여기서 스터디를 중단합니다.
+
 <table style="text-align:center;">
     <thread>
         <tr>
@@ -163,9 +165,9 @@
             <td align="center">─</td>
         </tr>
         <tr>
-            <td align="center">2020.02.25</td>
-            <td align="center">미정</td>
-            <td align="center">미정</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
             <td align="center">파이토치 ML, DNN</td>
             <td align="center">소현(ML)<br>영현(DNN)</td>
             <td align="center">혜지<br>은우</td>
