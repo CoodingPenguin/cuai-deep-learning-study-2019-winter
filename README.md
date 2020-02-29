@@ -179,7 +179,7 @@
 - [But What is a Deep Learning?](https://www.youtube.com/watch?v=aircAruvnKk)
 - [딥러닝 논문 읽는 방법](https://github.com/HYU-AILAB/ai-seminar/wiki/%EB%85%BC%EB%AC%B8-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [CNN 알고리즘들 : ResNet의 구조](https://bskyvision.com/644)
-- [Google Inception el](https://norman3.github.io/papers/docs/google_inception.html)
+- [Google Inception Model](https://norman3.github.io/papers/docs/google_inception.html)
 - [Review: Highway Networks](https://towardsdatascience.com/review-highway-networks-gating-function-to-highway-image-classification-5a33833797b5)
 - [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y&feature=youtu.be)
 - [딥러닝 알고리즘 by Keras](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/Part%20I%20-%20Convolution%20Operations/ConvNets.ipynb)
