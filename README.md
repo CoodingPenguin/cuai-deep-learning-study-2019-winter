@@ -173,6 +173,22 @@
             <td align="center">─</td>
             <td align="center">혜지</td>
         </tr>
+        <tr>
+            <td align="center">2020.03.15</td>
+            <td align="center">─</td>
+            <td align="center">미정</td>
+            <td align="center">파이토치 CNN</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
+        </tr>
+        <tr>
+            <td align="center">2020.03.22</td>
+            <td align="center">─</td>
+            <td align="center">미정</td>
+            <td align="center">파이토치 RNN</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
+        </tr>
     </tbody>
 </table>
 
