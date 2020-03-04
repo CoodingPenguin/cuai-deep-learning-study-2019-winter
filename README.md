@@ -111,6 +111,8 @@
 
 ## 6. 스터디 기록
 
+`영무`님은 3월 2일에 중도하차하셨습니다.
+
 <table style="text-align:center;">
     <thread>
         <tr>
