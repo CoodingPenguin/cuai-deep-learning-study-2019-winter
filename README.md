@@ -164,12 +164,12 @@
             <td align="center">─</td>
         </tr>
         <tr>
+            <td align="center">2020.03.07</td>
             <td align="center">─</td>
-            <td align="center">─</td>
-            <td align="center">─</td>
+            <td align="center">미정</td>
             <td align="center">파이토치 ML, DNN</td>
-            <td align="center">소현(ML)<br>영현(DNN)</td>
-            <td align="center">혜지<br>은우</td>
+            <td align="center">─</td>
+            <td align="center">혜지</td>
         </tr>
     </tbody>
 </table>
