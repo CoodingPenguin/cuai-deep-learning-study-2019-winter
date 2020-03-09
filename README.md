@@ -187,11 +187,11 @@
         <tr>
             <td align="center">2020.03.08</td>
             <td align="center">파이토치 ML, DNN</td>
-            <td align="center">○</td>
+            <td align="center"><a href="https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week6/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4%201%EC%A3%BC%EC%B0%A8%20(%EC%98%81%ED%98%84).png">○</a></td>
             <td align="center">X</td>
-            <td align="center">○</td>
-            <td align="center">○</td>
-            <td align="center">○</td>
+            <td align="center"><a href="https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week6/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4%201%EC%A3%BC%EC%B0%A8%20(%EC%9D%80%EC%9A%B0).png">○</a></td>
+            <td align="center"><a href="https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week6/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4%201%EC%A3%BC%EC%B0%A8%20(%ED%98%9C%EC%A7%80).jpg">○</a></td>
+            <td align="center"><a href="https://github.com/CoodingPenguin/deep-learning-study-2020w/blob/master/week6/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4%201%EC%A3%BC%EC%B0%A8%20(%EC%86%8C%ED%98%84).png">○</a></td>
         </tr>
         <tr>
             <td align="center">2020.03.15</td>
