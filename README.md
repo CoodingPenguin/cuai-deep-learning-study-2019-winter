@@ -163,29 +163,51 @@
             <td align="center"><b>영무</b></td>
             <td align="center">유명한 CNN 알고리즘</td>
             <td align="center">재현(8장)<br>은우(Resnet)</td>
-            <td align="center">─</td>
+            <td align="center">혜지</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thread>
+        <tr>
+            <th width="10%" rowspan="2">날짜</th>
+            <th width="32%" rowspan="2">내용</th>
+            <th width="58%" colspan="5">제출 여부</th>
         </tr>
         <tr>
-            <td align="center">2020.03.07</td>
-            <td align="center">─</td>
-            <td align="center">미정</td>
+            <th>영현</th>
+            <th>재현</th>
+            <th>은우</th>
+            <th>혜지</th>
+            <th>소현</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td align="center">2020.03.08</td>
             <td align="center">파이토치 ML, DNN</td>
-            <td align="center">─</td>
-            <td align="center">혜지</td>
+            <td align="center">○</td>
+            <td align="center">X</td>
+            <td align="center">○</td>
+            <td align="center">○</td>
+            <td align="center">○</td>
         </tr>
         <tr>
             <td align="center">2020.03.15</td>
-            <td align="center">─</td>
-            <td align="center">미정</td>
             <td align="center">파이토치 CNN</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
             <td align="center">─</td>
             <td align="center">─</td>
         </tr>
         <tr>
             <td align="center">2020.03.22</td>
-            <td align="center">─</td>
-            <td align="center">미정</td>
             <td align="center">파이토치 RNN</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
+            <td align="center">─</td>
             <td align="center">─</td>
             <td align="center">─</td>
         </tr>
